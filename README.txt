@@ -12,3 +12,7 @@ Rules:
 - Player attempts to guess the word by entering one letter at a time.  No need to guess the same letter multiple times! Once a letter is guessed, all instances of that letter in the secret word are revealed to the player.
 - The player has 6 turns to guess the word correctly, or the game is over and the secret word is revealed.
 - Game allows for saving and reloading so you can start and stop anytime.
+
+To Play:
+- Must have Ruby 2.5.0 or later installed
+- In terminal, change directories to the ‘lib’ directory of this project, and then enter “Ruby hangman.rb”
